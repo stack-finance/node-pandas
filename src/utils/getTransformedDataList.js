@@ -1,4 +1,4 @@
-const dataType = require('../utils/dataType')
+const dataType = require('./dataType')
 
 function getTransformedDataList(dataList, columns) {
     let index = []
